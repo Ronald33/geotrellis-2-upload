@@ -1,0 +1,9 @@
+[{
+    "format": "multiband-geotiff",
+    "name": "landsat",
+    "cache": "NONE",
+    "backend": {
+        "type": "hadoop",
+        "path": "file:///tmp/multiband.tif"
+    }
+}]
